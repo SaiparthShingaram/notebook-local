@@ -185,6 +185,3 @@ Then restart the Python server.
 - Voice-based questions
 - Multi-agent research workflows
 
-## License
-
-This project is intended for learning and personal development. Add an open-source license, such as the MIT License, if you plan to publish and share the project publicly.
