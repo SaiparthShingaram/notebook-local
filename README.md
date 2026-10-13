@@ -175,13 +175,5 @@ py -m pip install -r requirements.txt
 
 Then restart the Python server.
 
-## Future improvements
 
-- Semantic embeddings and vector search
-- Hybrid keyword and semantic retrieval
-- OCR support for scanned PDFs
-- Better page-level citations
-- Retrieval accuracy benchmarking
-- Voice-based questions
-- Multi-agent research workflows
 
